@@ -36,10 +36,10 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center"><img src="https://github.com/user-attachments/assets/42bd0632-4e3a-404f-aeb8-02576ac02d07" width="180" alt="AI 챗봇 도우미"></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/ca2a3cff-ddc5-40ed-bd96-a933744eb2b0" width="180" alt="결제 모듈"></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/4f56bb40-c95a-4c10-8a95-7831355372c0" width="180" alt="모바일 구매 내역 확인"></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/ff45a00e-e42c-4d7f-8355-fb326ed719ef" width="180" alt="상품 상세와 담기"></td>
+      <td align="center"><img src="https://rakaso598.github.io/portfolio/snack/AI챗봇도우미움짤.gif" width="180" alt="AI 챗봇 도우미"></td>
+      <td align="center"><img src="https://rakaso598.github.io/portfolio/snack/결제모듈.gif" width="180" alt="결제 모듈"></td>
+      <td align="center"><img src="https://rakaso598.github.io/portfolio/snack/모바일구매내역확인.gif" width="180" alt="모바일 구매 내역 확인"></td>
+      <td align="center"><img src="https://rakaso598.github.io/portfolio/snack/상품상세와담기움짤.gif" width="180" alt="상품 상세와 담기"></td>
     </tr>
   </tbody>
     
@@ -53,10 +53,10 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center"><img src="https://github.com/user-attachments/assets/25c63f64-8f8e-492b-bf48-f8e5f6f826d6" width="180" alt="스낵 예산 관리"></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/2c8a665c-2956-4273-bd68-a146ff3c645f" width="180" alt="찜하기 해제 기능"></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/efec779a-5d3b-41fd-8158-f50b9826c240" width="180" alt="카테고리 정렬 둘러보기"></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/4f5850e2-051d-4383-9143-3852a7f71174" width="180" alt="회원 관리 모바일"></td>
+      <td align="center"><img src="https://rakaso598.github.io/portfolio/snack/스낵예산관리.gif" width="180" alt="스낵 예산 관리"></td>
+      <td align="center"><img src="https://rakaso598.github.io/portfolio/snack/찜하기해제기능움짤.gif" width="180" alt="찜하기 해제 기능"></td>
+      <td align="center"><img src="https://rakaso598.github.io/portfolio/snack/카테고리정렬둘러보기.gif" width="180" alt="카테고리 정렬 둘러보기"></td>
+      <td align="center"><img src="https://rakaso598.github.io/portfolio/snack/회원관리모바일.gif" width="180" alt="회원 관리 모바일"></td>
     </tr>
   </tbody>
 </table>
@@ -261,7 +261,7 @@ src/
 
 
 <details>
-<summary>1.문제점 (Problem)<</summary>
+<summary>1.문제점 (Problem)</summary>
 
 이번 프로젝트에서 가장 크게 부딪힌 문제는 **기획 의도 문제**였습니다.
 <p align="center">
